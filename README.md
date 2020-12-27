@@ -1,2 +1,0 @@
-# portfolio
-домашка freecodecamp
